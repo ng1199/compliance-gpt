@@ -2,7 +2,7 @@ from google import genai
 import json
 
 # Create client
-client = genai.Client(api_key="AIzaSyB05YGW8YVhIG6QsghBa7Ug6o1GehTgjsM")
+client = genai.Client(api_key="YOUR_API_KEY")
 
 def extract_controls(text):
     prompt = f"""
