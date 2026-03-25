@@ -1,4 +1,4 @@
-# 🔐 ComplianceGPT: AI-Powered GRC Control Extractor & Mapper
+# 🔐 ControlMind AI: GRC Control Extractor & Mapper
 
 An AI-driven system that extracts, structures, and maps security controls across compliance frameworks like ISO 27001 and HIPAA using Large Language Models (LLMs).
 
