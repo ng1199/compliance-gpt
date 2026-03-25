@@ -1,0 +1,4 @@
+control_1,control_2,similarity_score,validation
+Users must have unique IDs to access systems,Each user must be uniquely identified.,0.49,Moderate Match
+Access must be restricted based on roles,Access to patient data must be limited to authorized users.,0.53,Moderate Match
+System logs must be maintained and reviewed regularly,Audit logs must be maintained for system activities.,0.57,Moderate Match

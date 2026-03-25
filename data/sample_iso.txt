@@ -1,0 +1,3 @@
+Users must have unique IDs to access systems.
+Access must be restricted based on roles.
+System logs must be maintained and reviewed regularly.

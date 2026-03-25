@@ -1,0 +1,3 @@
+Access to patient data must be limited to authorized users.
+Each user must be uniquely identified.
+Audit logs must be maintained for system activities.
